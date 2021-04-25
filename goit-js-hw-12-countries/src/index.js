@@ -1,6 +1,6 @@
 import './styles.css';
 import debounce from 'lodash/debounce';
-import fetchCountries from './fetchCountries';
+import fetchCountries from './js/fetchCountries';
 import updateMarkup from './js/updateMarkup';
 
 const refs = {
